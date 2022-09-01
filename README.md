@@ -1,1 +1,1 @@
-Task 0.where am i?
+Create a script that deletes all files in the current working directory that end with the character ~
